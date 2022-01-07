@@ -1,0 +1,2 @@
+# CourseManager
+ Local course manager
